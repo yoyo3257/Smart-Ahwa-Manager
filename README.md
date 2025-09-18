@@ -13,7 +13,7 @@ This project applies **SOLID principles** and object-oriented design to handle o
 
     * Daily Report (all orders)
     * Top Seller Report (most popular drink)
-* Modular design that separates **business logic** (OrderHandler) from **reports** and **UI (menus)**
+* Modular design that separates **business logic** (OrderHandler) from **reports**.
 
 ---
 
